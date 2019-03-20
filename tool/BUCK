@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'uriparse',
+  srcs = [
+    'uriparse.c',
+  ],
+  deps = [
+    '//:uriparser',
+  ],
+)

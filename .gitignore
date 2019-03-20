@@ -24,3 +24,10 @@ Makefile.in
 /uriparser-*.tar.bz2
 /uriparser-*.zip
 /uriparse
+
+.buckconfig.local
+.buckconfig.d
+.buckd
+buck-out
+buckaroo
+buckaroo_macros.bzl
